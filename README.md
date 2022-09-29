@@ -1,6 +1,6 @@
 # WMT2022-Large-Scale-African
 
-This project details our preparation for the WMT2022 Large-Scale African Translation shared task.
+This project introduces Tencent’s Multilingual Machine Translation System for the WMT2022 Large-Scale African Translation shared task.
 
 We (team Borderline) won the <b>1st</b> place :1st_place_medal: in the constrained track (i.e., external data and pretrained models are not allowed).
 
