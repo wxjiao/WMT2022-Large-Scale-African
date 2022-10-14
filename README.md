@@ -17,7 +17,7 @@ We (team Borderline) won the [<b>1st</b> place :1st_place_medal:](https://docs.g
 ### Config the Local Environment for Evaluation
 
 Let us assume we are provided with a clean machine, then we have the following steps:
-- Download [Miniconda3 py37_4.10.3](https://repo.anaconda.com/miniconda/Miniconda3-py37_4.10.3-Linux-x86_64.sh), and see [Instruction](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html) for to install.
+- Download [Miniconda3 py37_4.10.3](https://repo.anaconda.com/miniconda/Miniconda3-py37_4.10.3-Linux-x86_64.sh), and see [Instruction](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html) to install.
 ```
 # make sure your networks are well configured.
 wget https://repo.anaconda.com/miniconda/Miniconda3-py37_4.10.3-Linux-x86_64.sh
