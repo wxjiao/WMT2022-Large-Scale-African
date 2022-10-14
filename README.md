@@ -2,7 +2,7 @@
 
 This project introduces Tencent’s Multilingual Machine Translation System for the WMT2022 Large-Scale African Translation shared task.
 
-We (team Borderline) won the <b>1st</b> place :1st_place_medal: in the constrained track (i.e., external data and pretrained models are not allowed).
+We (team Borderline) won the [<b>1st</b> place :1st_place_medal:](https://docs.google.com/spreadsheets/d/1NHwPkIK7b5pjTcnZdlH1cxS_orbISjdOv5V12aHj1iY/edit#gid=1337958767) in the constrained track (i.e., external data and pretrained models are not allowed).
 
 <div align="center">
 <figure>
