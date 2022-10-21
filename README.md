@@ -84,3 +84,18 @@ sh ./inference_afr.sh models/trans_deepwide_dp020_african26_7g106_erm3_ft30k fra
 
 <b>Note</b>: Training instruction is coming soon.
 
+
+
+## Public Impact
+### Citation
+Please kindly cite our paper if you find it helpful:
+
+```ruby
+@inproceedings{jiao2022wmt,
+  title={Self-Training Sampling with Monolingual Data Uncertainty for Neural Machine Translation},
+  author={Wenxiang Jiao and Zhaopeng Tu and Jiarui Li and Wenxuan Wang and Jen-tse Huang and Shuming Shi},
+  booktitle = {WMT},
+  year      = {2022}
+}
+```
+
