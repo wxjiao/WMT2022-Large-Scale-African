@@ -92,7 +92,7 @@ Please kindly cite our paper if you find it helpful:
 
 ```ruby
 @inproceedings{jiao2022wmt,
-  title={Self-Training Sampling with Monolingual Data Uncertainty for Neural Machine Translation},
+  title={Tencent’s Multilingual Machine Translation System for WMT22 Large-Scale African Languages},
   author={Wenxiang Jiao and Zhaopeng Tu and Jiarui Li and Wenxuan Wang and Jen-tse Huang and Shuming Shi},
   booktitle = {WMT},
   year      = {2022}
