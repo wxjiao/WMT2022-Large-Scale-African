@@ -66,7 +66,7 @@ fairseq==0.10.2
 
 ### Download our Pretrained Model
 
-- Due to the storage limit, we only release the [contrastive submission](https://drive.google.com/file/d/1l0lJR0mSVy1CNC9fg1qltmYEtNuV8g8r/view?usp=sharing), which include our code, sentencepiece model, and pretrained model.
+- Due to the storage limit, we only release the [contrastive submission](https://huggingface.co/wxjiao/wmt22-large-scale-african), which include our code, sentencepiece model, and pretrained model.
 ```
 # decompress and obtain `submission_contrast`
 unzip submission_contrast.zip
